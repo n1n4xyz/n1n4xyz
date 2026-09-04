@@ -1,8 +1,7 @@
-# Nina Haide
+# Hi, I'm Nina 👩🏽‍💻✨
 
-AI engineer and consultant. I build LLM and agent systems in Python, and ship on-chain projects at hackathons. M.Sc. Artificial Intelligence, 2026. Based in southern Spain, working across Europe.
-
-Currently: multi-agent orchestration, AI governance under the EU AI Act, and privacy-preserving on-chain identity.
+AI engineer and consultant. I build LLM and agent systems in Python, ship on-chain projects at hackathons and completed a  M.Sc. Artificial Intelligence in 2026. 
+Currently working on multi-agent orchestration, AI governance under the EU AI Act and privacy-preserving on-chain identity.
 
 ## Selected work
 
